@@ -278,11 +278,16 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mofd-common/proprietary/lib/drm/libfwdlockengine.so:system/lib/drm/libfwdlockengine.so \
     vendor/asus/mofd-common/proprietary/lib/hw/keystore.moorefield.so:system/lib/hw/keystore.moorefield.so \
     vendor/asus/mofd-common/proprietary/lib/libkeymaster.so:system/lib/libkeymaster.so \
+    vendor/asus/mofd-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/asus/mofd-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
+    vendor/asus/mofd-common/proprietary/vendor/lib/mediadrm/libplayreadydrmplugin.so:system/vendor/lib/mediadrm/libplayreadydrmplugin.so \
     vendor/asus/mofd-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/asus/mofd-common/proprietary/vendor/lib/libseppr_hal.so:system/vendor/lib/libseppr_hal.so \
     vendor/asus/mofd-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/asus/mofd-common/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/asus/mofd-common/proprietary/vendor/bin/bcc.moorefield:system/vendor/bin/bcc.moorefield \
     vendor/asus/mofd-common/proprietary/vendor/bin/framebuffer_test:system/vendor/bin/framebuffer_test \
+    vendor/asus/mofd-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/asus/mofd-common/proprietary/vendor/bin/hwperfbin2jsont:system/vendor/bin/hwperfbin2jsont \
     vendor/asus/mofd-common/proprietary/vendor/bin/pvrdebug:system/vendor/bin/pvrdebug \
     vendor/asus/mofd-common/proprietary/vendor/bin/pvrhwperf:system/vendor/bin/pvrhwperf \
