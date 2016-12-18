@@ -342,6 +342,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/mofd-common/proprietary/vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so \
     vendor/asus/mofd-common/proprietary/vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so:system/vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so \
     vendor/asus/mofd-common/proprietary/vendor/lib/hw/gralloc.moorefield.so:system/vendor/lib/hw/gralloc.moorefield.so \
+    vendor/asus/mofd-common/proprietary/vendor/lib/hw/memtrack.moorefield.so:system/vendor/lib/hw/memtrack.moorefield.so \
+    vendor/asus/mofd-common/proprietary/vendor/lib/hw/vulkan.moorefield.so:system/vendor/lib/hw/vulkan.moorefield.so \
     vendor/asus/mofd-common/proprietary/etc/firmware/if.bin:system/etc/firmware/if.bin \
     vendor/asus/mofd-common/proprietary/etc/firmware/s3202_gff.img:system/etc/firmware/s3202_gff.img \
     vendor/asus/mofd-common/proprietary/etc/firmware/s3202_ogs.img:system/etc/firmware/s3202_ogs.img \
